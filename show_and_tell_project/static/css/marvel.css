@@ -1,0 +1,9 @@
+html {
+  display: flex;
+  justify-content: center;
+}
+
+img.hero {
+  width: 20rem;
+  border: 5px solid crimson;
+}
